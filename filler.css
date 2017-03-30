@@ -1,0 +1,19 @@
+/* This is CSS */
+
+/* This is filler */
+#filler {
+    font-size: 24;
+}
+/* This is filler */
+
+/* This is footer */
+footer {
+    object-position: left;
+    width: 100%;
+    background-image: url(megaRenderBanner.jpg);
+    color: darkgray;
+    position: absolute;
+    bottom: 0%;
+}
+/* This is footer */
+
