@@ -65,6 +65,26 @@
 /* Grid */
 
 
+/* portrait of my beautiful face */
+#portrait {
+   margin: 5%;
+    padding: 2%;
+    background-color: dimgray;
+    
+}
+
+#bio {
+    font-family: "Helvetica";
+    font-size: 20px;
+}
+
+#biotext {
+    background-color: darkgray;
+    padding: 1%;
+    margin-bottom: 1%;
+}
+/* portrait of my beautiful face */
+
 /* This is footer */
 footer {
     object-position: left;
