@@ -71,7 +71,7 @@ footer {
     width: 100%;
     background-image: url(megaRenderBanner.jpg);
     color: darkgray;
-    position: absolute;
+    position: fixed;
     bottom: 0%;
 }
 /* This is footer */

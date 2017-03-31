@@ -1,0 +1,34 @@
+/* This is CSS */
+
+
+/* This is the icon grid */
+#icongrid {
+    padding: %;
+    background-color: darkgray;
+}
+/* This is the icon grid */
+
+
+/* This is the text box */
+#iconText {
+    font-family: "Helvetica";
+    color: black;
+    background-color: darkgray;
+    margin-bottom:0%;
+    padding: 1%;
+
+}
+/* This is the text box */
+
+
+/* This is footer */
+footer {
+    object-position: left;
+    width: 100%;
+    background-image: url(megaRenderBanner.jpg);
+    color: darkgray;
+    position: fixed;
+    bottom: 0%;
+}
+/* This is footer */
+
