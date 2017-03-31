@@ -4,16 +4,21 @@
 /* This is the icon grid */
 #icongrid {
     padding: %;
-    background-color: darkgray;
+    background-color: white;
 }
+
+ul {
+    list-style-type: none;
+}
+
 /* This is the icon grid */
 
 
 /* This is the text box */
 #iconText {
     font-family: "Helvetica";
-    color: black;
-    background-color: darkgray;
+    color: darkgray;
+    background-color: white;
     margin-bottom:0%;
     padding: 1%;
 
