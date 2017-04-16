@@ -15,5 +15,11 @@ footer {
     position: fixed;
     bottom: 0%;
 }
+
+h2 {
+    height: 400px;
+    background-image: url(Mami%20Icon%20Hardhat.png);
+    background-repeat: no-repeat;
+}
 /* This is footer */
 
