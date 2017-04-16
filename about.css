@@ -70,6 +70,7 @@
    margin: 5%;
     padding: 2%;
     background-color: dimgray;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     
 }
 
@@ -79,7 +80,8 @@
 }
 
 #biotext {
-    background-color: darkgray;
+    background-color: white;
+    color: darkgray;
     padding: 1%;
     margin-bottom: 1%;
 }
@@ -91,7 +93,7 @@ footer {
     width: 100%;
     background-image: url(megaRenderBanner.jpg);
     color: darkgray;
-    position: absolute;
+    position: fixed;
     bottom: 0%;
 }
 /* This is footer */

@@ -1,0 +1,58 @@
+/* This is CSS */
+
+/* This is filler */
+#filler {
+    font-size: 24;
+}
+/* This is filler */
+
+
+/* Top Image */
+
+#topImage {
+    object-position: center;
+    position: inherit;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    object-fit: cover;
+}
+/* Top Image */
+
+
+/* Text */
+#text {
+    margin-left: 5%;
+    margin-right: 5%;
+    object-position: center;
+    
+}
+
+#iconText {
+    font-family: "Helvetica";
+    color: darkgray;
+    background-color: white;
+    margin-bottom:0%;
+    padding: 1%;
+}
+/* Text */
+
+
+/* Bottom Image */
+.bottomImage {
+    margin: 10%;
+    padding-bottom: 5%;
+}
+/* Bottom Image */
+
+
+/* This is footer */
+footer {
+    object-position: left;
+    width: 100%;
+    background-image: url(megaRenderBanner.jpg);
+    color: darkgray;
+    position: fixed;
+    bottom: 0%;
+
+/* This is footer */
+
